@@ -15,7 +15,6 @@ pip install pixellib
 
 pip install torch
 
-!export REPLICATE_API_TOKEN=r8_W8hm2222o0t9vBr3qfMUL5ZRwNRMYBM43CQv1
 
 import replicate
 import os
